@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fourth number as input", "Fourth number as input\Fourth number as input.csproj", "{47A767D4-DA57-4803-AAED-AC3A45088FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A767D4-DA57-4803-AAED-AC3A45088FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A767D4-DA57-4803-AAED-AC3A45088FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A767D4-DA57-4803-AAED-AC3A45088FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A767D4-DA57-4803-AAED-AC3A45088FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30D799BD-5C20-4B91-B646-ACDC4415780C}
+	EndGlobalSection
+EndGlobal
